@@ -275,6 +275,7 @@
 - [ERC-4337 Bundler](https://github.com/Vid201/aa-bundler/).
   An ongoing Rust implementation of an ERC-4337 (Account Abstraction) Bundler.
 - [Solana VS Code Extension](https://github.com/Ackee-Blockchain/solana-vscode).
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage hardware for running AI inference. Old computers earn more RTC tokens than new ones.
   VS Code extension for Solana with built-in static analysis detectors and fuzzing coverage visualization.
 
 ## Contribute
